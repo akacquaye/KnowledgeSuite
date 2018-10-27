@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` KnowledgeSuite is an app dedicated for the enrichment of students to provide the best learning experince in various subjects that pertain cover of all subjects allows for students to study  can display a question, and on tap display the answer to the question.
+KnowledgeSuite is an app dedicated for the enrichment of the learning experince of students to provide the best learning material for studying various topics in school.
 
 ### App Walk-though
 <img src="http://recordit.co/6WfBuB711aE" width=200><br>
